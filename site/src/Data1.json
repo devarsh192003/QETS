@@ -1,0 +1,56 @@
+{
+    "data" : {
+        "contact":
+        {
+        "Title":"Contact Us:",
+        "Subtitle":"QE Technological Solutions",
+        "Address1":"8 -A and B Nilkanth Industrial Estate",
+        "Address2":"Halol-Vadodara Highway",
+        "Address3":"Village:Kotambi",
+        "Address4":"Waghodia",
+        "Address5":"Vadodara",
+        "Website":"www.gxpsolutions.in",
+        "Email":"daxesh@gxpsolutions.in",
+        "Mobile":"9428902268"
+  },
+  
+  "Thermal" : {
+    "Title":"Thermal Validation Services:",
+    "Subtitle":"(in house facility)",
+    "Intro1":"We have inhouse thermal validation services for Autoclave, Lyophiliser,",
+    "Intro2":" and Tanks Vessels with CIP /SIP systems with following capabilities:",
+    "Content1":"Kaye Validator AVS System (4 no)",
+    "Content2":"Lives International Wireless Dataloggers (25 nos)",
+    "Content3":"Ultra-Premium 7 Strand Teflon Thermocouples(accuracy 0.1Deg C at 121 Degree",
+    "Content4":"Special Intelligent IRTD with accuracy 0.002 Deg C",
+    "Content5":"Kapton 7 Strand Teflon Thermocouple for Tunnel",
+    "Content6":"Temperature Bath",
+    "Content7":"Accessories like Smart Gasket, Feed Through, BI indicator, Smart C Clamp,Pucks",
+    "Conclusion":"We provide thermal validation services also for pharma plants across Globe."
+},
+"CQV": {
+    "Intro":"GXP Solutions has very been offering CQV services since last 4 years. GXP Solutions has CQV consultants & engineers who can assess your compliance assessment or validation against following regulatory and industry standards:",
+    "Content1":"Looking into this scenario, we cover entire set of “Document Deliverables” as under",
+    "line1":"Inhouse Documentation team for",
+    "Content2":"GAP Analysis",
+    "Content3":"Validation Plan",
+   "Content4":"GxP Assessment:",
+    "Content5":"URS",
+    "Content6":"Functional Requirement Specification",
+    "Content7":"Functional Risk Assessment",
+    "Content8":"Installation Qualification",
+    "Content9":"Operational Qualification",
+    "Content10":"Validation Summary Report & Traceability Matrix",
+    "Content11":"Discrepancy or Deviation Reports",
+    "Content13":"Will follow ISPE Baseline guidance 2019 for CQV",
+    "Content14":"GAMP 5 is a Guideline; not a regulatory (rigid one).",
+    "Content15":"21 CFR-11, EU Annexes are regulations.",
+    "Content16":"GAMP 5 is designed to follow these regulations.",
+    "Content17":"Documents to be made as per their,",
+    "Content18":"Risk",
+    "Content19":"Complexity",
+    "Content20":"Novelty"
+}
+}
+    
+} 
