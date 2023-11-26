@@ -17,16 +17,17 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Customer from "./pages/Customer";
 import Footer from './components/Footer';
-
-export default function App() {
+import Home from './pages/Home';
+function App() {
 	return (
 	
 			<div className="App">
+        
             <Navbar/>
 
 	      <Routes>
-          {/* <Route index element={<Home />} /> */}
-          <Route path="/" element={<App/>} />
+          
+          <Route exact path="/" element={<Home/>} />
           <Route path="/About" element={<About/>} />
           <Route path='/Contact' element={<Contact />} />
           <Route path="/Cqv" element={<Cqv/>} />
@@ -49,5 +50,4 @@ export default function App() {
 		
 	);
 }
-
-			
+ export default App;

@@ -8,7 +8,7 @@ function Navbar() {
     <div className="Navbar">
       <Nav>
         <div className="navcontainer">
-          <Link to="/App" >
+          <Link to="/" >
             <img className="logo" src="logo.jpg" alt="logo" />
           </Link>
           <div className="navmenu">
