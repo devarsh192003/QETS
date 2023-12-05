@@ -40,7 +40,7 @@ function Contact() {
       <br />
       <iframe
         title="map"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d443.63353897595744!2d73.30328001640072!3d22.413894033099012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fd30bffc86083%3A0x3c785934721564e3!2sNILKANTH%20INDUSTRIAL%20PARK%201!5e0!3m2!1sen!2sin!4v1676347495236!5m2!1sen!2sin"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3672.8343197128333!2d72.4717505!3d22.9931192!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b4edded74ef%3A0x2209f704b87c01f0!2sSWATI%20TRINITY!5e0!3m2!1sen!2sin!4v1701091348830!5m2!1sen!2sin"
         width="100%"
         height="500"
         style={{
@@ -48,6 +48,7 @@ function Contact() {
           allowfullscreen: "true",
           loading: "lazy",
           referrerpolicy: "no-referrer-when-downgrade",
+          marginBottom: "10vh",
         }}
       ></iframe>
     </div>

@@ -1,3 +1,4 @@
+
 export const footerdata = [
     {
       title: "LAYOUTS",
@@ -14,9 +15,9 @@ export const footerdata = [
   ]
   export const featured = [
     {
-      cover: "../images/hero/h1.png",
-      name: "Family House",
-      total: "122 Property",
+      cover: "https://www.bing.com/th?id=OIP.weH0KmRoetv93d4XDijJHAAAAA&w=134&h=94&c=8&rs=1&qlt=70&o=6&dpr=1.3&pid=3.1&rm=2",
+      name: "Pressure",
+      total: "calibaration",
     },
     {
       cover: "../images/hero/h2.png",
