@@ -1,7 +1,6 @@
 import React from "react"
 import { footerdata} from "./footerdata"
 import "./footer.css"
-
 const Footer = () => {
   return (
     <>
@@ -10,15 +9,8 @@ const Footer = () => {
         <div className='container'>
           <div className='box'>
             <div className='logo'>
-              <img src='../images/logo-light.png' alt='' /></div>
-              <h2>Do You Need Help With Anything?</h2>
-              <p>Receive updates, hot deals, tutorials, discounts sent straignt in your inbox every month</p>
-
-              <div className='inputflex'>
-                <input type='text' placeholder='Email Address' />
-                <button>Subscribe</button>
+              <img src={process.env.PUBLIC_URL + "/logo.jpg"} alt='' />
               </div>
-            
           </div>
 
           {footerdata.map((val) => (

@@ -1,11 +1,18 @@
 import React from 'react'
 import Data from'../Data1.json'
+import Back from '../components/Back'
+import Heading from '../components/Heading'
+import img from "../images/img5.jpeg"
 
 function Cqv () {
   return (
     <div classname='CQV'>
-      
-      <div className='Contents'>
+      <Back name='CQV' title='Commissioning, Qualification and Validation' cover={img} />
+        <div className='containerflexmtop'>
+        <div className="Contents">
+          <div className='left row'>
+            
+            <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
       <br/>
       <p>{Data.data.CQV.Intro}</p>  
       <br/>
@@ -37,6 +44,8 @@ function Cqv () {
        </ul>
        <br/>
        </div>
+    </div>
+    </div>
     </div>
   )
 }
