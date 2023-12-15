@@ -11,7 +11,7 @@ const About = () => {
         <Back name='About Us' title='About Us - Who We Are?' cover={img} />
         <div className='containerflexmtop'>
           <div className='left row'>
-            <div className="Contents">
+            <div className="Contents">  
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
     
   

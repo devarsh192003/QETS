@@ -34,13 +34,13 @@ function Navbar() {
               </Link>
             </Nav.Menu>
             <Nav.Menu title="Validation Services">
-              <Link to="/Csv">
+              <Link to="/Csv" className="navlink">
                 <Nav.Item>CSV</Nav.Item>
               </Link>
-              <Link to="/Cqv">
+              <Link to="/Cqv" className="navlink">
                 <Nav.Item>CQV</Nav.Item>
               </Link>
-              <Link to="/Thermal2">
+              <Link to="/Thermal2" className="navlink">
                 <Nav.Item>Thermal</Nav.Item>
               </Link>
             </Nav.Menu>

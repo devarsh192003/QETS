@@ -7,7 +7,7 @@
     position: sticky;
     top: 0;
     width: 100%;
-    background: rgba(245, 245, 245, 1);
+    background: white;
     opacity: 1;
     z-index: 100;
 }
@@ -82,9 +82,9 @@
   margin-left: 3vw;
 }
 
-.navlink {
+.navlink{
   text-decoration: none; 
-  color: inherit; 
+  color: inherit;
   margin-left: 1vw;
   
 }

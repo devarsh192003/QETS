@@ -15,7 +15,7 @@
 
 .containerflexmtop {
   display: flex;
-  margin-top: 10vh;
+  margin-top: 10vh; 
 }
 .aboutimg {
   width: 45vw;

@@ -6,9 +6,9 @@ const Hero = () => {
   const pink_gradiant = 'bg-gradient-to-r from-pink-300 to-pink-600 filter blur-[900px]'
   const white_gradiant = 'bg-white bg-opacity-60 filter blur-[750px]'
   const blue_gradiant = 'bg-gradient-to-t from-transparent via-blue-800 to-transparent filter blur-[123px]'
-  const bg_discount_gradient = 'bg-gradient-to-tr from-gray-700 to-indigo-900'
-  const text_gradient = ' bg-gradient-to-br from-teal-100 via-teal-200 to-teal-500 text-transparent bg-clip-text'
-  const white_to_grey_gradient = 'bg-gradient-to-br from-white to-gray-300';
+  // const bg_discount_gradient = 'bg-gradient-to-tr from-gray-700 to-indigo-900'
+  // const text_gradient = ' bg-gradient-to-br from-teal-100 via-teal-200 to-teal-500 text-transparent bg-clip-text'
+  // const white_to_grey_gradient = 'bg-gradient-to-br from-white to-gray-300';
 
   return (
     <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>

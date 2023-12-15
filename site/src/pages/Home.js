@@ -1,8 +1,8 @@
 import React from "react";
 import Hero from "../components/Hero";
 import styles from "../components/styles";
-import Featured from "../components/featured/Featured";
-
+import CardsGridmain from "./CardsGridmain";
+import Heading from "../components/Heading";
 function Home() {
     return (
       <>
@@ -13,7 +13,11 @@ function Home() {
         </div>
         
       </div>
-      <Featured/>
+      <br/ >
+      <br/ >
+
+      <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
+      <CardsGridmain/>
 
       </>
     );
