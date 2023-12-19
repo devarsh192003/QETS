@@ -1,20 +1,22 @@
 import React from 'react'
 import Back from "../components/Back"
 import Heading from "../components/Heading"
-import img from "../images/about.jpg"
+import img from "../images/img6.jpeg"
 
 
 function Productsales() {
   return (
     <div className='productsales'>
-      <Back name='About Us' title='About Us - Who We Are?' cover={img} />
-      <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
-        <div className='containerflexmtop'>
-          <div className='left row'>
-            <div className="Contents">
-    </div>
-            </div>
-            </div>
+      <Back name='Product Sales and Marketing' title='Our Product Line' cover={img} />
+      <section class="error-container">
+    <span>4</span>
+    <span><span class="screen-reader-text">0</span></span>
+    <span>4</span>
+  </section>
+  <h1 className='pagenotfound'>Page is in developement</h1>
+  <div class="link-container">
+    <a target="_blank" href="/" class="more-link">GO to the home page</a>
+  </div>
     </div>
   )
 }

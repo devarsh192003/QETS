@@ -1,15 +1,18 @@
 
 export const footerdata = [
-    
-    {
-      title: "ALL SECTIONS",
-      text: [{ list: "Headers" }, { list: "Features" }, { list: "Attractive" }, { list: "Testimonials" }, { list: "Videos" }, { list: "Footers" }],
-    },
-    {
-      title: "COMPANY",
-      text: [{ list: "About" }, { list: "Blog" }, { list: "Pricing" }, { list: "Affiliate" }, { list: "Login" }, { list: "Changelog" }],
-    },
-  ]
+  {
+    title: "COMPANY",
+    text: [
+      { list: "About", link: "/About" },
+      { list: "Customer", link: "/Customer" },
+      { list: "Industries", link: "/Industries" },
+      { list: "Product Sales", link: "/Productsales" },
+      { list: "Contact", link: "/Contact" },
+      { list: "Pressure", link: "/Pressure" },
+    ],
+  },
+];
+
   export const featured = [
     {
       cover: "https://www.bing.com/th?id=OIP.weH0KmRoetv93d4XDijJHAAAAA&w=134&h=94&c=8&rs=1&qlt=70&o=6&dpr=1.3&pid=3.1&rm=2",

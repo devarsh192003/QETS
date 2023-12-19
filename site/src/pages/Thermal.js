@@ -8,7 +8,7 @@ const Thermal = () => {
   return (
     <>
       <div className='about'>
-        <Back name='Thermal' title='Thermal Calibaration?' cover={img} />
+        <Back name='Thermal' title='Thermal Calibaration' cover={img} />
         <div className='containerflexmtop'>
           <div className='left row'>
             <div className="Contents">

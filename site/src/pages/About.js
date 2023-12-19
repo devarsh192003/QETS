@@ -1,7 +1,7 @@
 import React from "react"
 import Back from "../components/Back"
 import Heading from "../components/Heading"
-import img from "../images/about.jpg"
+import img from "../images/img6.jpeg"
 import "./about.css"
 
 const About = () => {
@@ -12,7 +12,7 @@ const About = () => {
         <div className='containerflexmtop'>
           <div className='left row'>
             <div className="Contents">  
-            <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
+            <Heading title='Who are we?' subtitle='' />
     
   
             <p>Companies with the most stringent quality requirements trust QE TECHNICAL SOLUTIONS to meet their calibration needs. QE TECHNICAL SOLUTIONS provides calibrations for a broad array of disciplines and instruments, allowing you to fulfill your calibration needs from a single, reliable vendor.</p>
@@ -21,7 +21,7 @@ const About = () => {
             </div>
           </div>
           <div className='right row'>
-            <img  className='aboutimg' src='./immio.jpg' alt='' />
+            <img className='aboutimg' src='./immio.jpg' alt='' />
           </div>
           </div>
         </div>

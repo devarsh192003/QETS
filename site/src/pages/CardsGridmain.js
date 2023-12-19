@@ -23,7 +23,7 @@ function CardsGrid() {
           </div>
           <div class="face face2">
             <div class="content">
-              <h3>3-D Visualization</h3>
+              <h3>3-D Services</h3>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@ function CardsGrid() {
           <div class="face face2">
             <div class="content">
               <h3>
-               Power & Energy
+               Mechnaical Equipments
               </h3>
             </div>
           </div>
@@ -53,7 +53,7 @@ function CardsGrid() {
           </div>
           <div class="face face2">
             <div class="content">
-              <h3>Oil and Refinery</h3>
+              <h3>Calibaration Services</h3>
             </div>
           </div>
         </div>
@@ -68,7 +68,7 @@ function CardsGrid() {
           </div>
           <div class="face face2">
             <div class="content">
-              <h3>Gas</h3>
+              <h3>Product Sales</h3>
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@ function CardsGrid() {
           </div>
           <div class="face face2">
             <div class="content">
-              <h3>Pharma & Healthcare</h3>
+              <h3>Planning & Documentation</h3>
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@ function CardsGrid() {
           <div class="face face2">
             <div class="content">
               <h3>
-                Utitity & Engineering
+               Validation Services
               </h3>
             </div>
           </div>
@@ -114,7 +114,7 @@ function CardsGrid() {
           <div class="face face2">
             <div class="content">
               <h3>
-               Water related
+               Manufacutring
               </h3>
             </div>
           </div>
@@ -130,7 +130,7 @@ function CardsGrid() {
           <div class="face face2">
             <div class="content">
               <h3>
-                Manufacturing
+                Mechanical
               </h3>
             </div>
           </div>

@@ -1,14 +1,14 @@
 import React from 'react'
 import Back from '../components/Back'
 import Heading from '../components/Heading'
-import img from '../images/img10.jpeg'
+import img from '../images/img6.jpeg'
 import CardsGrid from './CardsGrid'
 
 function Industries() {
   return (
     <div className='Industries'>
     <Back name='Industries' title='Industries which we serve' cover={img} />
-    <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
+    <Heading title='We cater all major industries ' subtitle='' />
     
         <div className='containerflexmtop'>
         

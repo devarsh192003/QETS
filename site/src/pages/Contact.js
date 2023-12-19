@@ -2,7 +2,7 @@ import React from "react";
 import Data from "../Data1.json";
 import Back from "../components/Back";
 import Heading from "../components/Heading";
-import img from "../images/about.jpg";
+import img from "../images/img6.jpeg";
 
 function Contact() {
   return (
@@ -15,8 +15,8 @@ function Contact() {
       <div className="Contents">
         <div className="contact_title">
           <Heading
-            title="Our Agency Story"
-            subtitle="Check out our company story and work process"
+            title="Find out us at"
+            subtitle=""
           />
         </div>
         <br />

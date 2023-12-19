@@ -16,7 +16,7 @@ function Home() {
       <br/ >
       <br/ >
 
-      <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
+      <Heading title='Our Main Services' subtitle='Check out what QETS offers to you!' />
       <CardsGridmain/>
 
       </>
