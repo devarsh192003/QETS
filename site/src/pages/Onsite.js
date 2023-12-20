@@ -1,7 +1,4 @@
 import React from 'react'
-import Back from "../components/Back"
-import Heading from "../components/Heading"
-import img from "../images/img6.jpeg"
 
 function Onsite() {
   return (
@@ -13,7 +10,7 @@ function Onsite() {
   </section>
   <h1 className='pagenotfound'>Page is in developement</h1>
   <div class="link-container">
-    <a target="_blank" href="https://www.silocreativo.com/en/creative-examples-404-error-css/" class="more-link">Visit the original article</a>
+    <a target="_blank" href="/" class="more-link">Visit the original article</a>
   </div>
     </div>
   )
